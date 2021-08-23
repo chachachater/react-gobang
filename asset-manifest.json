@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gobang/static/css/main.e668257c.chunk.css",
+    "main.js": "/react-gobang/static/js/main.2eae995e.chunk.js",
+    "main.js.map": "/react-gobang/static/js/main.2eae995e.chunk.js.map",
+    "runtime-main.js": "/react-gobang/static/js/runtime-main.84741548.js",
+    "runtime-main.js.map": "/react-gobang/static/js/runtime-main.84741548.js.map",
+    "static/js/2.f9593ef1.chunk.js": "/react-gobang/static/js/2.f9593ef1.chunk.js",
+    "static/js/2.f9593ef1.chunk.js.map": "/react-gobang/static/js/2.f9593ef1.chunk.js.map",
+    "static/js/3.bd70c7d4.chunk.js": "/react-gobang/static/js/3.bd70c7d4.chunk.js",
+    "static/js/3.bd70c7d4.chunk.js.map": "/react-gobang/static/js/3.bd70c7d4.chunk.js.map",
+    "index.html": "/react-gobang/index.html",
+    "static/css/main.e668257c.chunk.css.map": "/react-gobang/static/css/main.e668257c.chunk.css.map",
+    "static/js/2.f9593ef1.chunk.js.LICENSE.txt": "/react-gobang/static/js/2.f9593ef1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84741548.js",
+    "static/js/2.f9593ef1.chunk.js",
+    "static/css/main.e668257c.chunk.css",
+    "static/js/main.2eae995e.chunk.js"
+  ]
+}
